@@ -1,0 +1,12 @@
+
+
+
+
+
+1.The Rendering A Browser Involves Three Major.
+               a.Parseing,   b.Layout,  c.Painting.
+2.The Multiple Tree's Are Used In A Rendring  A Browser.
+             a.Dom Tree,  b.Parse Tree,  c.Css Tree. 
+3.How to Use The HTML, CSS, JS Tags In Perfect Format.
+4.Layout Computes Where A Node Will Be On The Screen.
+5.Painting Computes Bitmaps And Composites To Screen. 
